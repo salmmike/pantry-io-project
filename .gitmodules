@@ -13,3 +13,6 @@
 [submodule "pantry-io-app"]
 	path = pantry-io-app
 	url = git@github.com:salmmike/pantry-io-app.git
+[submodule "pantry-io-communication"]
+	path = pantry-io-communication
+	url = git@github.com:salmmike/pantry-io-communication.git
