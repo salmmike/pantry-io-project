@@ -1,0 +1,15 @@
+[submodule "pantry-io-api"]
+	path = pantry-io-api
+	url = git@github.com:salmmike/pantry-io-api.git
+[submodule "pantryio-linux"]
+	path = pantryio-linux
+	url = git@github.com:salmmike/pantryio-linux.git
+[submodule "pantryio-gui"]
+	path = pantryio-gui
+	url = git@github.com:salmmike/pantryio-gui.git
+[submodule "pantry-io"]
+	path = pantry-io
+	url = git@github.com:salmmike/pantry-io.git
+[submodule "pantry-io-app"]
+	path = pantry-io-app
+	url = git@github.com:salmmike/pantry-io-app.git
